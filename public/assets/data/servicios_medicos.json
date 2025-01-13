@@ -1,0 +1,22 @@
+[
+    {
+        "nombre_servicio": "CONSULTAS",
+        "descripcion": "Ofrecemos consultas médicas especializadas con profesionales altamente capacitados, brindando diagnósticos y atención personalizada.",	
+        "imagen": "./assets/imgs/appointmentsItem.jpg"
+    },
+    {
+        "nombre_servicio": "URGENCIAS",
+        "descripcion": "Nuestro servicio de urgencias está disponible las 24 horas del día, brindando atención inmediata y eficiente para cualquier situación médica crítica.",	
+        "imagen": "./assets/imgs/emergencyItem.jpg"
+    },
+    {
+        "nombre_servicio": "ESPECIALIDADES",
+        "descripcion": "  Contamos con una amplia gama de especialidades médicas, desde cardiología hasta pediatría, para ofrecerte atención integral y avanzada.",	
+        "imagen": "./assets/imgs/especialityItem.jpg"
+    },
+    {
+        "nombre_servicio": "EXAMENES Y LABORATORIO",
+        "descripcion": "Contamos con tecnología de primer nivel para la realización de examenes y laboratorios, garantizando la calidad y precisión de nuestros resultados.",	
+        "imagen": "./assets/imgs/especialityItem.jpg"
+    }
+]

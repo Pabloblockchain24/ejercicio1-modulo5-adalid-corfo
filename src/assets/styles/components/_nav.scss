@@ -1,0 +1,12 @@
+@use "../themes/theme-adalid" as colors;
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding-block: 0.5rem;
+    margin-bottom: 2rem;
+    color: colors.$white;
+    background-color: colors.$primary-color-button;
+}
