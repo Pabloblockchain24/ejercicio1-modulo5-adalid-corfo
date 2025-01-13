@@ -1,4 +1,4 @@
-# Ejercicio práctico 3 - Módulo 4 Adalid Corfo
+# Ejercicio práctico 1 - Módulo 5 Adalid Corfo
 
 ## Descripción del Proyecto
 
@@ -12,15 +12,13 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/Pabloblockchain24/ejercicio3-modulo4-adalid-corfo.git
+   git clone https://github.com/Pabloblockchain24/ejercicio1-modulo5-adalid-corfo.git
    ```
    
-   cd ejercicio1-modulo4-adalid-corfo
+   cd ejercicio1-modulo5-adalid-corfo
 
-   npm install -g sass
-
-   sass .\assets\styles\main.scss estilos.css
-
+   npm install
+   npm run sass
    npm run dev 
 
 ## Estructura de carpetas y archivos
